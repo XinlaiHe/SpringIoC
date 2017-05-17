@@ -1,0 +1,22 @@
+2017-05-16 21:10:10,971 [main] INFO  hsbc.core.Application - Hello IOC hexinlai 18
+2017-05-16 21:10:42,181 [main] WARN  hsbc.core.Application - Hello IOC hexinlai 18
+2017-05-16 21:16:23,520 [main] INFO  hsbc.core.Application - Hello IOC hexinlai 18
+2017-05-16 21:33:39,654 [main] INFO  hsbc.core.Application - Hello IOC hexinlai 18
+2017-05-16 21:34:19,737 [main] INFO  hsbc.model.Animal - Start getName !
+2017-05-16 21:34:19,832 [main] INFO  hsbc.model.Animal - Finish getName!
+2017-05-16 21:34:19,854 [main] INFO  hsbc.core.Application - Hello IOC hexinlai 18
+2017-05-16 21:34:35,800 [main] INFO  hsbc.model.Animal - Start getName !
+2017-05-16 21:34:35,821 [main] INFO  hsbc.model.Animal - Finish getName !
+2017-05-16 21:34:35,830 [main] INFO  hsbc.core.Application - Hello IOC hexinlai 18
+2017-05-16 21:40:22,928 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:42:07,641 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:43:03,560 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:44:30,698 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:45:46,457 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:49:30,500 [main] INFO  hsbc.service.CustomService - Start doSomethingMethod !
+2017-05-16 21:49:30,519 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:49:30,520 [main] INFO  hsbc.service.CustomService - Finish doSomethingMethod !
+2017-05-16 21:50:11,718 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:50:53,028 [main] INFO  hsbc.service.CustomService - Start doSomethingMethod !
+2017-05-16 21:50:53,049 [main] INFO  hsbc.service.CustomService - Hello IOC hexinlai 18
+2017-05-16 21:50:53,049 [main] INFO  hsbc.service.CustomService - Finish doSomethingMethod !
